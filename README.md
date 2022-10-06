@@ -1,2 +1,2 @@
-# Grafana-LTC-config
+# LTC-config Grafana
 LTC config on server private
